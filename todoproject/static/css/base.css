@@ -1,0 +1,21 @@
+body {
+ margin: 0;
+ padding: 0;
+
+
+}
+
+.banner {
+ width: 100%;
+ background-color: black;
+ height: 150px;
+ margin-bottom: 60px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.banner-text {
+ color: white;
+
+}
